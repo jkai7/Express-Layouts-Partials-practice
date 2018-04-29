@@ -3,3 +3,6 @@
     padding: 10% 20%;
     justify-content: space-around;
   }
+  body {
+    background: lightgrey;
+  }
